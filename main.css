@@ -1,0 +1,36 @@
+
+#navbar {
+	position: fixed;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
+}
+
+#header {
+	position: relative;
+	top: -10px;
+	background-color:gray;
+	border-top-left-radius: 2em;
+	border-top-right-radius: 2em;
+	background-image: url("https://scontent-a-ord.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10945704_924425277610180_5456160564549116842_n.jpg?oh=57dcd11133af047fb9fcadc438134d98&oe=556E3A4B");
+}
+
+#navbar ul{
+	list-style-type: none;
+	position: fixed;
+	margin: -15px;
+}
+
+#navbar li {
+	display: inline;
+	border: 2px solid #000000;
+	font-family: sans-serif;
+	padding: 5px;
+	background-color:red;
+}
+
+#navbar a {
+        text-decoration:none;
+        color:black;
+        background-color:red;
+}	
