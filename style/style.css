@@ -1,0 +1,15 @@
+#center-title h1 {
+	font-size: 128px;
+	font-family: "Lucida Console", Monaco, monospace;
+	text-align: center; 
+	color: black;
+}
+
+#fusion-color{
+	color: maroon;
+}
+
+body{
+	background-image: url("http://wallpaper.pickywallpapers.com/1366x768/blue-grundgy-background.jpg");
+	background-position: center;
+	}
