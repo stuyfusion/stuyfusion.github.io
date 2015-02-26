@@ -2,7 +2,7 @@
 	position: fixed;
 	top: 10px;
 	left: 50%;
-	margin-left: -45px;
+	margin-left: -40px;
 	margin-top: 5px;
 }
 
@@ -39,20 +39,54 @@
 
 #logo {
 	position: relative;
+	padding-top: 25px;
+	padding-left: 40px;
+	margin-top: -16px;
+	margin-bottom: 33px;
+}
+
+#logo h1 {
 	font-family: "Droid Sans Bold";
 	font-size: 36px;
-	padding-top: 30px;
-	padding-left: 40px;
 }
 
 #image {
 	position: fixed;
 	clear: both;
-	margin-top: -10px;
+	margin-top: -42px;
 	margin-left: -8px;
 	height: 70%;
 	width: 100%;
 	background-image: url("background_image.png");
+}
+
+#image h1 {
+	color: white;
+	font-family: "Droid Sans Bold";
+	font-size: 54px;
+	width: 25%;
+	margin-top: -20px;
+	margin-left: 175px;
+}
+
+#image h2 {
+	color: white;
+	font-family: "Droid Sans Bold";
+	font-size: 24px;
+	width: 25%;
+	margin-top: 325px;
+	margin-left: 125px;
+}
+
+#content {
+	position: fixed;
+	clear: both;
+	width: 1441px;
+	height: 500px;
+	background-image: url("content.png");
+	background-size: cover;
+	margin-top: 562px;
+	margin-left: -8px;
 }
 
 @font-face {
