@@ -1,18 +1,21 @@
-
 #navbar {
 	position: fixed;
-	top:10px;
-	left:50%;
-	margin-left:-254px;
+	top: 10px;
+	left: 50%;
+	margin-left: -45px;
+	margin-top: 5px;
 }
 
 #header {
 	position: relative;
 	top: -10px;
-	background-color:gray;
-	border-top-left-radius: 2em;
-	border-top-right-radius: 2em;
-	background-image: url("https://scontent-a-ord.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/10945704_924425277610180_5456160564549116842_n.jpg?oh=57dcd11133af047fb9fcadc438134d98&oe=556E3A4B");
+	right: 20px;
+	width: 102%;
+	background-image: url("header.png");
+}
+
+#header h1 {
+	margin-left: 50px;
 }
 
 #navbar ul{
@@ -23,14 +26,33 @@
 
 #navbar li {
 	display: inline;
-	border: 2px solid #000000;
-	font-family: sans-serif;
-	padding: 5px;
-	background-color:red;
+	font-family: "Droid Sans", sans-serif;
+	padding: 10px;
+	color: white;
+	font-size: 24px;
 }
 
 #navbar a {
-        text-decoration:none;
-        color:black;
-        background-color:red;
-}	
+    text-decoration: none;
+	color: white;
+}
+
+#logo {
+	position: relative;
+	font-family: "Droid Sans Bold", sans-serif bold;
+	font-size: 36px;
+	padding-top: 30px;
+	padding-left: 40px;
+}
+
+
+@font-face {
+    font-family: "Droid Sans";
+    src: url(DroidSans.ttf);
+}
+
+@font-face {
+    font-family: "Droid Sans Bold";
+    src: url(DroidSans-Bold.ttf);
+	font-weight: bold;
+}
