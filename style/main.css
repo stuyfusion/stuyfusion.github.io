@@ -26,7 +26,7 @@
 
 #navbar li {
 	display: inline;
-	font-family: "Droid Sans", sans-serif;
+	font-family: "Droid Sans";
 	padding: 10px;
 	color: white;
 	font-size: 24px;
@@ -39,12 +39,21 @@
 
 #logo {
 	position: relative;
-	font-family: "Droid Sans Bold", sans-serif bold;
+	font-family: "Droid Sans Bold";
 	font-size: 36px;
 	padding-top: 30px;
 	padding-left: 40px;
 }
 
+#image {
+	position: fixed;
+	clear: both;
+	margin-top: -10px;
+	margin-left: -8px;
+	height: 70%;
+	width: 100%;
+	background-image: url("background_image.png");
+}
 
 @font-face {
     font-family: "Droid Sans";
