@@ -62,6 +62,7 @@ $on-laptop:        800px;
     -ms-transition: opacity 1s;
     -o-transition: opacity 1s;
     transition: opacity 1s;
+    overflow: hidden;
 }
 .carousel .active.left, .carousel .active.right {
     left:0;
