@@ -3,7 +3,7 @@ Stuyfusion 479 Web Development
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Stuy Fission
+Copyright (c) 2015 Stuy Fusion
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
