@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 ---
 
-Stuy Fission Blog
+Stuy Fusion Blog
