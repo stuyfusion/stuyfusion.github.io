@@ -74,11 +74,7 @@ $on-laptop:        800px;
     z-index:1;
 }
 
-.carousel-caption {
-@include filter-gradient(#a90329, #6d0019, horizontal); // IE6-9
-@include background-image(linear-gradient(left, rgba(169,3,41,1) 0%,rgba(144,2,34,0.5) 17%,rgba(143,2,34,0.5) 18%,rgba(155,2,37,0.5) 49%,rgba(169,3,41,0.5) 84%,rgba(169,3,41,0.53) 85%,rgba(109,0,25,1) 100%));
 
-}
 
 
 
