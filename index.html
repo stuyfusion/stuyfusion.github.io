@@ -5,6 +5,7 @@
     <link rel='stylesheet' type='text/css' href='style/base.css'>
     <link rel='stylesheet' type='text/css' href='style/index.css'>
     <link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Roboto'>
+    <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Economica:400,700'>
   </head>
   <body>
     <div id='header'>
@@ -28,9 +29,9 @@
     </div>
     <div id='middle'>
       <div id='content'>
-        <!--<div id='content-img' class='content-item'>
-          <img src='data/img.jpg'>
-        </div>-->
+        <div id='content-gallery'>
+
+        </div>
         <div id='content-news' class='content-item column column-left'>
           <div id='news-countdown' class='news-item'>
             <h1>2015 FIRST Tech Challenge Kickoff Countdown:</h1>
@@ -47,7 +48,15 @@
         Copyright 2015 &copy; Stuy Fusion 479
       </div>
       <script type='text/javascript' src='scripts/index.js'></script>
+      <script type='text/javascript' src='scripts/base.js'></script>
+      <script type='text/javascript' src='scripts/gallery.js'></script>
       <script type='text/javascript'>
+        var gallery = new Gallery('content-gallery', 1);
+        for (var i = 0; i < 3; i++) {
+          gallery.addImage('', '', 'data/image' + i + '.jpg');
+        }
+        gallery.generate();
+
         var kickoff = new Date(2015, 8, 12, 12);
         setInterval(function() {
           countdown(kickoff,
