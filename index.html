@@ -51,9 +51,9 @@
       <script type='text/javascript' src='scripts/base.js'></script>
       <script type='text/javascript' src='scripts/gallery.js'></script>
       <script type='text/javascript'>
-        var gallery = new Gallery('content-gallery', 1);
+        var gallery = new Gallery('content-gallery', 0);
         for (var i = 0; i < 3; i++) {
-          gallery.addImage('', '', 'data/image' + i + '.jpg');
+          gallery.addImage('', 'content-gallery-img', 'data/image' + i + '.jpg');
         }
         gallery.generate();
 
