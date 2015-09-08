@@ -30,11 +30,11 @@ Gallery.prototype.createButtons = function() {
   prevBtn.value = '<';
   nextBtn.value = '>'
   prevBtn.onclick = function() {
-    gallery.curPos_ = (gallery.curPos_ - 1) % gallery.images_.length;
+    gallery.curPos_ = mod(gallery.curPos_ - 1, gallery.images_.length);
     gallery.update();
   };
   nextBtn.onclick = function() {
-    gallery.curPos_ = (gallery.curPos_ + 1) % gallery.images_.length;
+    gallery.curPos_ = mod(gallery.curPos_ + 1, gallery.images_.length);
     gallery.update();
   };
 
