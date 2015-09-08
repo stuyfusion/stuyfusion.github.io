@@ -8,12 +8,17 @@ html, body {
   background-color: #FFFFFF;
 }
 
+body {
+  overflow-y: scroll;
+}
+
 #header, #footer {
-  position: absolute;
-  background-color: #DDDDDD;
+  position: fixed;
   width: 100%;
   color: #000000;
   z-index: 5;
+  background: -webkit-linear-gradient(left, #000000, #000000, #CCCCCC, #CCCCCC);
+  background: linear-gradient(left, #000000, #000000, #BBBBBB, #BBBBBB)
 }
 
 #header {
@@ -28,6 +33,7 @@ html, body {
   margin-left: 20px;
   background-color: #333333;
   opacity: 0.8;
+  transition: all 0.5s;
 }
 
 #logo:hover {
@@ -40,16 +46,18 @@ html, body {
   color: #000000;
   background-color: #BBBBBB;
   text-decoration: none;
-  transition: all 0.5s;
   border-top: 2px solid #CCCCCC;
   box-sizing: border-box;
   height: 75px;
+  text-shadow: 1px 1px #555555;
+  transition: all 0.5s;
 }
 
 .header-item:hover {
   background-color: #AAAAAA;
   color: #BB0000;
   border-color: #777777;
+  text-shadow: 1px 1px #770000;
 }
 
 #navbar {
@@ -66,18 +74,17 @@ html, body {
 }
 
 #middle {
-  position: absolute;
-  top: 75px;
-  bottom: 50px;
+  padding-top: 75px;
+  padding-bottom: 50px;
 }
 
 #content {
-  height: 100%;
   width: 100%;
   overflow-y: auto;
 }
 
 #footer {
+  background-color: #DDDDDD;
   bottom: 0;
   height: 50px;
   line-height: 50px;

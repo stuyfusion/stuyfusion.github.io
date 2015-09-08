@@ -10,7 +10,7 @@
   <body>
     <div id='header'>
       <a href='index.html'>
-        <img id='logo' class='header-item' src='data/logo.jpg'>
+        <img id='logo' src='data/logo.jpg'>
       </a>
       <div id='navbar'>
         <a class='header-item nav-item' href='index.html'>
@@ -51,9 +51,9 @@
       <script type='text/javascript' src='scripts/base.js'></script>
       <script type='text/javascript' src='scripts/gallery.js'></script>
       <script type='text/javascript'>
-        var gallery = new Gallery('content-gallery', 0);
+        var gallery = new Gallery('content-gallery', 'gallery', 0);
         for (var i = 0; i < 3; i++) {
-          gallery.addImage('', 'content-gallery-img', 'data/image' + i + '.jpg');
+          gallery.addImage('gallery-image', '', 'data/image' + i + '.jpg');
         }
         gallery.generate();
 
