@@ -8,14 +8,16 @@ function Gallery(parentId, galleryIdPrefix, curPos) {
   this.images_ = [];
 }
 
+Gallery.EPSILON = 0.001;
+
 Gallery.prototype.addImage = function(imageId, imageClass, src) {
-  var imageEl_ = document.createElement('img');
-  if (imageId != null)
-    imageEl_.setAttribute('id', imageId);
-  if (imageClass != null)
-    imageEl_.setAttribute('class', imageClass);
-  imageEl_.src = src;
-  this.images_.push(imageEl_);
+  var imageEl = document.createElement('img');
+  if (imageId != undefined)
+    imageEl.setAttribute('id', imageId);
+  if (imageClass != undefined)
+    imageEl.setAttribute('class', imageClass);
+  imageEl.src = src;
+  this.images_.push(imageEl);
 }
 
 Gallery.prototype.createButtons = function() {
@@ -49,6 +51,15 @@ Gallery.prototype.generate = function() {
 }
 
 Gallery.prototype.update = function() {
-  this.galleryEl_.removeChild(this.parentEl_.getElementsByTagName('img')[0]);
-  this.galleryEl_.appendChild(this.images_[this.curPos_]);
+  var oldImage = this.galleryEl_.getElementsByTagName('img')[0];
+  var newImage = this.images_[this.curPos_];
+  var galleryEl = this.galleryEl_;
+  galleryEl.appendChild(newImage);
+  var timer = setInterval(function() {
+    oldImage.style.opacity -= 0.01;
+    if (oldImage.style.opacity < Gallery.EPSILON) {
+      galleryEl.removeChild(oldImage);
+      clearInterval(timer);
+    }
+  }, 1);
 }
