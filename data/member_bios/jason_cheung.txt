@@ -1,0 +1,12 @@
+<div class='about-name'>
+Jason Cheung
+</div>
+
+<div class='about-roles'>
+Engineer
+</div>
+
+<div class='about-bio'>
+Jason Cheung is a Sophomore at Stuyvesant High School in New York, New York. He has been on the team since his Freshman year. This is also his second year on a FIRST related team. In his free time, Jason likes to solve Rubik's cubes, as well as play on the piano. Through robotics, Jason wishes to expand his knowledge of both engineering and programming. He also wishes to add to his already amazing experiences with FIRST by becoming more involved with the team and other FIRST competitions. 
+</div>
+	

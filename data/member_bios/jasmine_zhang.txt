@@ -1,0 +1,12 @@
+<div class='about-name'>
+Jasmine Zhang
+</div>
+
+<div class='about-roles'>
+Head of Documentation, Fundraising, Outreach, Engineer
+</div>
+
+<div class='about-bio'>
+Jasmine Zhang is a Junior at Stuyvesant High School in New York, New York. She has been on the team since her Sophomore year and is excited to serve the team under her new position. Jasmine boasts numerous achievements that span both the arts and the sciences, placing 9th with her team in the Urban Barcoding research project, a leadership position in our school's Red Cross chapter, and a passionate member of the art community. By joining the robotics team, she hopes to forward her endeavours in creative construction.
+</div>
+	
