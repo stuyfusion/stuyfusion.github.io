@@ -3,10 +3,10 @@ Edward Tsang
 </div>
 
 <div class='about-roles'>
-Vice-President, Engineer, Programmer, Fundraising, Outreach, Project Manager, Pit Manager, Robot Design, Strategy
+Vice President, Engineer, Fundraising Agent, Outreach Agent, Project Manager, Pit Manager, Robot Designer
 </div>
 
 <div class='about-bio'>
-Edward Tsang is a Junior at Stuyvesant High School in New York, New York. He has been on the team since his Sophomore year and is eager to learn from his President on how to lead a team. In his free time, Edward enjoys coding interactive simulations for both his STEM and his humanitites classes. He also has a separate development team devoted to creating websites for clients. Edward joined the roboitcs team in order to further his interests in both problem solving as well as programming, hoping to mesh two of his passions into one final product. 
+Edward Tsang is a junior at Stuyvesant High School in New York, New York. He has been on the team since his sophomore year and is eager to learn more about leadership from his President. In his free time, Edward enjoys coding interactive simulations for both his STEM and his humanitites classes. He also participates in a separate development team devoted to creating websites for clients. Edward joined the robotics team in order to further explore his interests in both problem solving and programming.
 </div>
 	

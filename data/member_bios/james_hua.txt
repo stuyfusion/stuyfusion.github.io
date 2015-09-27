@@ -3,10 +3,10 @@ James Hua
 </div>
 
 <div class='about-roles'>
-Head of Engineering, Project Advisor, Pit Crew, Robot Design, Strategy
+Head of Engineering, Project Advisor, Pit Crew Member, Robot Design, Strategy Advisor
 </div>
 
 <div class='about-bio'>
-James is a Junior at Stuyvesant High School in New York, New York. He has been on the team since his Sophomore year. In his free time, he enjoys devising algorithms for the various online projects he is involved in. Through robotics, James hopes to further his studies in engineering and be able to apply them in real world scenarios. 
+James is a junior at Stuyvesant High School in New York, New York. He has been on the team since his sophomore year. In his free time, he enjoys devising algorithms for his various online projects. Through robotics, James hopes to further his studies in engineering and be able to apply them in real world scenarios. 
 </div>
 	
