@@ -6,7 +6,7 @@ Jonathan Quang
 Head of Strategy, Engineer, Robot Designer, Priamry Scout
 </div>
 
-<div class='about-bio'>
+<div class='about-desc'>
 Jonathan Quang is a sophomore at Stuyvesant High School in New York, New York. He has been on the team since his freshman year, but has been involved with FIRST since eighth grade. In his free time, he enjoys exploring his interests, often creating 3D CAD models and small electrical projects in his free time. He joined robotics to fulfill his dream: to be able to create something from a mess, and then watch it dance before his eyes.
 </div>
 	

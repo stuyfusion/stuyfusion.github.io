@@ -6,7 +6,7 @@ Jason Cheung
 Engineer
 </div>
 
-<div class='about-bio'>
+<div class='about-desc'>
 Jason Cheung is a sophomore at Stuyvesant High School in New York, New York. He has been on the team since his freshman year. In his free time, Jason enjoys solving Rubik's cubes and playing piano. Through robotics, Jason wishes to expand his knowledge of both engineering and programming. He, having previously participated in a FIRST competition, wishes to add to his already amazing experiences by becoming more involved with this new competition.
 </div>
 	
