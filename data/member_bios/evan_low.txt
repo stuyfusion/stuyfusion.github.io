@@ -7,6 +7,6 @@ Engineer
 </div>
 
 <div class='about-desc'>
-Evan Low is a sophomore from Stuyvesant High School in New York, New York. He has been on the team since his freshman year. In his free time, Evan enjoys competing with our school's badminton team. He joiend robotics because of his lifelong interest in technology and computers as well as his desire to acquire the skills necessary to properly engineer and program a functional robot.
+Evan Low is a sophomore from Stuyvesant High School in New York, New York. He has been on the team since his freshman year. In his free time, Evan enjoys competing with our school's badminton team. He joined robotics because of his lifelong interest in technology and computers as well as his desire to acquire the skills necessary to properly engineer and program a functional robot.
 </div>
 	

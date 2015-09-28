@@ -7,6 +7,6 @@ Documentation Agent, Fundraising Agent, Outreach Agent, Engineer
 </div>
 
 <div class='about-desc'>
-Kelly Huang is a junior at Stuyvesant High School in New York, New York. She has been on the team since her sophomore year and looks forward to helping the team document its experiences. In her free time, Kelly enjoys volunteering for her school's Red Cross chapter, as well as helping out with the theater community. Through robotics, she hopes to further her ability to work in a competitive environement and acquire the skills necessary to advance her studies in the STEM fields.
+Kelly Huang is a junior at Stuyvesant High School in New York, New York. She has been on the team since her sophomore year and looks forward to helping the team document its experiences. In her free time, Kelly enjoys volunteering for her school's Red Cross chapter, as well as helping out with the theater community. Through robotics, she hopes to further her ability to work in a competitive environment and acquire the skills necessary to advance her studies in the STEM fields.
 </div>
 	

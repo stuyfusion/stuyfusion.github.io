@@ -7,6 +7,6 @@ Head of Documentation, Fundraising Agent, Outreach Agent, Engineer
 </div>
 
 <div class='about-desc'>
-Jasmine Zhang is a junior at Stuyvesant High School in New York, New York. She has been on the team since her sophomore year and is excited to serve the team under her new position of Head of Documentation. Jasmine boasts a varied skillset spanning both the arts and the sciences; most notable among her achievements are a 9th place finish with her team in the Urban Barcoding research project and a leadership position in her school's Red Cross chapter. By joining the robotics team, she hopes to forward her endeavours in creative construction.
+Jasmine Zhang is a junior at Stuyvesant High School in New York, New York. She has been on the team since her sophomore year and is excited to serve the team under her new position of Head of Documentation. Jasmine boasts a varied skillset spanning both the arts and the sciences; most notable among her achievements are a 9th place finish with her team in the Urban Barcoding research project and a leadership position in her school's Red Cross chapter. By joining the robotics team, she hopes to forward her endeavors in creative construction.
 </div>
 	
