@@ -57,6 +57,7 @@ body {
   transition: all 0.5s;
   padding: 0px 20px;
   font-size: 20px;
+  cursor: pointer;
 }
 
 .nav-item:hover {
