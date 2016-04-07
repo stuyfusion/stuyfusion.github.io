@@ -152,7 +152,7 @@ We are FTC team Stuy Fusion 479, hailing from Stuyvesant High School in New York
 
         $('#about-button').click(function() {
           $('#about-members').slideToggle(500, function() {
-            $('#about-members').height($('.about-member').first().height());
+            $('#about-members').height($('.about-member').first().height() + 200);
             $('.about-bio').each(function(index) {
               $(this).outerHeight($('.about-img').eq(index).height());
             });
