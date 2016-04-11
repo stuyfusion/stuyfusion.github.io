@@ -3,7 +3,7 @@ Ryan Siu
 </div>
 
 <div class='about-roles'>
-Head of Programming, Robot Designer, Project Advisor, Strategy Advisor, Pit Crew Member
+Head of Programming, Robot Designer, Strategy Advisor, Pit Crew Member
 </div>
 
 <div class='about-desc'>
