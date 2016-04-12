@@ -7,5 +7,5 @@ Engineer
 </div>
 
 <div class='about-desc'>
-
+Ever since I was young I was into building things with my hands. From a toddler to now, I never lost the interest in building something cool. I recall having spent times wowing my classmates with gadgets I made with the things from my middle school pencil case. As time moved on, I became more interested in the more advanced mechanics of robots and had a yearning to build one. However my middle school never had a legitimate robotics club and the DIY modded derby racing was rather plain and not challenging enough. Then Stuy FTC happened; I have never found a more enjoyable place to build and have fun as a team to make a functional bot every year. I can't wait to see what we're doing next year!
 </div>
