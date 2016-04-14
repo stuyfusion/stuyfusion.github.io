@@ -7,5 +7,5 @@ Engineer, Outreach Agent
 </div>
 
 <div class='about-desc'>
-
+Chauncey Lau is a sophomore at Stuyvesant High School in New York, New York. He’s been on the team since his freshman year. He’s had long held passion of tinkering and building small projects since his uncle bought him a Lego set instead of prep books when he was 6. In his spare time, Chauncey enjoys playing Hello Kitty Online with his teammates, creating inventions that cause more trouble they solve, and reading comics. He is also a dedicated runner, being one of the best sophomores in the city; and hopes to be a mechanical engineer in the future.
 </div>
