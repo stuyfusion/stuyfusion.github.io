@@ -1,0 +1,11 @@
+<div class='about-name'>
+Allan Wang
+</div>
+
+<div class='about-roles'>
+Head of Marketing, Outreach Agent, Documentation Agent, Fundraising Agent
+</div>
+
+<div class='about-desc'>
+Allan Wang is a sophomore and the Head of Marketing for two FTC teams.  He joined the team as a freshman last year because of his interest in the various areas of STEM, particularly programming and the application of business in the technology fields. As the Head of Marketing of not one, but two FTC teams, Allan manages the outreach, fundraising, and award submissions for both teams. This includes reaching out to potential sponsors, planning visits to local children’s hospitals, graphic design, and video production. Of course, this would be an impossible task for just one person, so Allan credits Stuypulse 694’s experienced marketing team for their incredible advice and support. In addition to robotics, Allan has great interests in entrepreneurship and data science, and is also an avid photographer. He also plays saxophone in his school’s band program. Last year, he also volunteered in a biology laboratory as a lab assistant during school hours; both gaining valuable workplace skills and diversifying his fascinations in STEM.
+</div>
